@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/cannonLevelOne.unity
+  isLoaded: 1
+  isActive: 1
