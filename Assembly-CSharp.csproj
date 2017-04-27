@@ -46,11 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CameraSwitch.cs" />
-     <Compile Include="Assets\PlayerSwitch.cs" />
      <Compile Include="Assets\prototype_textures\Scripts\ExplodingProjectile.cs" />
-     <Compile Include="Assets\prototype_textures\Scripts\MovementScript.cs" />
-     <Compile Include="Assets\prototype_textures\Scripts\ShootingScript.cs" />
+     <Compile Include="Assets\prototype_textures\Scripts\MoveAndShoot.cs" />
+     <Compile Include="Assets\prototype_textures\Scripts\PlayerSwitch.cs" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
